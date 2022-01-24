@@ -1,0 +1,2 @@
+{:deps {com.zaxxer/HikariCP {:mvn/version "4.0.3"}
+        org.tobereplaced/lettercase {:mvn/version "1.0.0"}}}
